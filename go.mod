@@ -1,4 +1,4 @@
-module wxtestnotify
+module github.com/golangboy/wxtestnotify
 
 go 1.20
 
